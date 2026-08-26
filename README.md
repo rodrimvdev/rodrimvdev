@@ -21,7 +21,7 @@
 <h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me </h2>
 
 <p align="left">
-  I'm a <strong>System Engineer</strong> specialized in <strong>web development</strong>. I enjoy combining creativity and technology, and I share here my academic and personal projects as I keep improving my skills. My goal is to become a professional in digital design and app development.
+  I'm a <strong>Systems Engineer</strong> specialized in <strong>web development</strong>. I enjoy combining creativity and technology, and I share here my academic and personal projects as I keep improving my skills. My goal is to become a professional in digital design and app development.
 </p>
 <p>
   
